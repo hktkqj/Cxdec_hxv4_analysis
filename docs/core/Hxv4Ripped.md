@@ -44,6 +44,7 @@ XP3 index
 - [docs/static/DeriveFilterManager_Static.md](../static/DeriveFilterManager_Static.md)：不启动游戏时如何从 EXE/BOOTSTRAP DLL 静态派生 `drip_program.json`。
 - [docs/static/Porting_Static_Flow.md](../static/Porting_Static_Flow.md)：如何把静态流程迁移到同一类加密的其他游戏。
 - [docs/core/XP3Extract.md](XP3Extract.md)：XP3 容器、index、segment、Adler32 校验和提取边界。
+- [docs/core/FileSignatureCheck.md](FileSignatureCheck.md)：`System.checkSignature`、`.sig` 文件、`extrasig` 和 BOOTSTRAP DLL 内 RSA-PSS/SHA256 校验流程。
 - [docs/core/hxv4/03-resource-hash.md](hxv4/03-resource-hash.md)：主程序与 Bootstrap DLL 之间的资源路径、扩展名补全和 Hxv4 查找关系。
 
 ## 关键实现入口

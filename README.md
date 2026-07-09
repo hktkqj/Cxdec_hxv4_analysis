@@ -15,6 +15,7 @@
 | 理解纯静态 FilterManager 派生 | [docs/static/DeriveFilterManager_Static.md](docs/static/DeriveFilterManager_Static.md) |
 | 适配另一款同类加密游戏 | [docs/static/Porting_Static_Flow.md](docs/static/Porting_Static_Flow.md) |
 | 理解 Hxv4 / DripValue / FilterRuntimeState | [docs/core/Hxv4Ripped.md](docs/core/Hxv4Ripped.md) |
+| 理解 `System.checkSignature` 和 `.sig` 文件校验 | [docs/core/FileSignatureCheck.md](docs/core/FileSignatureCheck.md) |
 | 理解 XP3 容器和提取边界 | [docs/core/XP3Extract.md](docs/core/XP3Extract.md) |
 | 处理 PSB/PIMG CG 合成 | [docs/usage/TryItOut.md#7-psbpimg-和-cg-合成工具](docs/usage/TryItOut.md#7-psbpimg-和-cg-合成工具) |
 
